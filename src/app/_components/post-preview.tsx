@@ -38,7 +38,7 @@ export function PostPreview({
       <div className="text-lg mb-4">
         <DateFormatter dateString={date} />
       </div>
-      <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+      <p className="text-lg leading-relaxed mb-4">{excerpt}.. <a href={`/posts/${slug}`} className="hover:underline hover:text-red-500 decoration-red-500 text-red-900">Read More</a></p>
       <Avatar name={author.name} picture={author.picture} />
     </div>
   );

@@ -34,14 +34,22 @@ export default function Contact() {
             of e-waste and to encourage people to recycle their electronics
             responsibly.
           </p>
-          <h2 className="text-4xl font-bold mt-8 text-center">Our Mission</h2>
+          <h2 className="text-4xl font-bold mt-8 text-center mb-5">Our Mission</h2>
           <p className="text-center">
             Our mission is to educate people about the dangers of e-waste and
             the importance of recycling electronics. We believe that everyone
             has a role to play in protecting the environment, and we want to
             empower people to make a positive impact through their actions.
           </p>
-          <h2 className="text-4xl font-bold mt-8 text-center">Our Team</h2>
+          <h2 className="text-4xl font-bold mt-8 text-center mb-5">Our Team (WIP)</h2>
+          <h3 className="text-2xl font-bold mt-4">Adi</h3>
+          <p>
+            Adi is a junior at the University of Wisconsin - Madison. He is majoring in Computer Science and 
+            Data Science. Dealing with technology daily, he understands the importance of e-ewaste as an up and coming issue.
+            As a result, he decided to develop this website to raise awareness about the importance of recycling electronics.
+            He hopes that this website will help people understand the impact of e-waste on the environment and encourage them 
+            to recycle responsibly.
+          </p>
           <h3 className="text-2xl font-bold mt-4">Ram</h3>
           <p>
             Ram is a junior at the University of Wisconsin - Madison. He is double majoring in Computer Science and 
@@ -50,7 +58,15 @@ export default function Contact() {
             to recycle and manage worn out pieces of technology. He looks forward to spreading awareness about the importance 
             of e-waste.
           </p>
+          <h2 className="text-4xl font-bold mt-8 text-center mb-5">What are your sources?</h2>
+          <p className="text-center">
+            We're glad you asked! We use a variety of credible sources to ensure that the information we provide is accurate and up-to-date.
+          </p>
+          <p className="text-center">
+            Here is a link to our white paper on e-waste with all of our sources: <a href="/assets/app/whitepaper.pdf" className="hover:underline hover:text-red-500 decoration-red-500 text-red-900">White Paper</a>
+          </p>
         </div>
+        
       </Container>
     </main>
   );

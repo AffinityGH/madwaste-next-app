@@ -44,7 +44,12 @@ type Params = {
 };
 
 export function generateMetadata({ params }: Params): Metadata {
-  const post = getPostBySlug(params.slug);
+  var post;
+  try {
+    post = getPostBySlug(params.slug);
+  } catch (error) {
+    return notFound();
+  }
 
   if (!post) {
     return notFound();

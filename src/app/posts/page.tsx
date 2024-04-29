@@ -18,6 +18,7 @@ export default function Index() {
       <Container>
         <Header />
         <HeroGeneric title="Posts" description="Learn more about e-waste through various articles."/>
+        <p className="italic text-stone-700 mb-5 text-center">More articles coming soon...</p>
         <HeroPost
           title={heroPost.title}
           coverImage={heroPost.coverImage}
