@@ -14,7 +14,7 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
       colors: {
-        "accent-1": "#FAFAFA",
+        "accent-1": "#ef4444",
         "accent-2": "#EAEAEA",
         "accent-7": "#333",
         success: "#0070f3",
@@ -22,6 +22,7 @@ const config: Config = {
       },
       spacing: {
         28: "7rem",
+        128: "32rem",
       },
       letterSpacing: {
         tighter: "-.04em",
@@ -35,6 +36,7 @@ const config: Config = {
       boxShadow: {
         sm: "0 5px 10px rgba(0, 0, 0, 0.12)",
         md: "0 8px 30px rgba(0, 0, 0, 0.12)",
+        lg: "0 15px 35px rgba(0, 0, 0, 0.20)",
       },
     },
   },
