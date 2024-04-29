@@ -19,7 +19,6 @@ const CoverImage = ({ title, src, slug }: Props) => {
           "hover:shadow-lg transition-shadow duration-200": slug,
         })}
         layout="fill"
-        objectFit="cover"
       />
     </div>
   );

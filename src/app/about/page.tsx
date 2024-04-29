@@ -23,9 +23,8 @@ export default function Contact() {
           <Image
             src="/assets/app/group.jpg"
             alt="A picture of our group."
-            className="shadow-sm w-full"
-            layout="fill"
-            objectFit="cover"
+            className="shadow-sm w-full object-cover"
+            fill
           />
         </div>
           <p className="text-center">
