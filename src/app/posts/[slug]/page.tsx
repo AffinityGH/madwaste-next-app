@@ -20,7 +20,7 @@ export default async function Post({ params }: Params) {
     <main>
       <Container>
         <Header />
-        <a href="/posts" className="hover:underline hover:text-red-500">
+        <a href="/posts" className="hover:underline hover:text-red-500 decoration-black text-red-900">
           &lt; Back
         </a>
         <article className="mb-32">
@@ -31,6 +31,9 @@ export default async function Post({ params }: Params) {
             author={post.author}
           />
           <PostBody content={content} />
+          <div className="mx-auto max-w-2xl mt-10 text-stone-500 italic text-sm">
+            Interested in our sources? You can find more information about them <a href="/about/#sources"className="hover:underline hover:text-red-500 decoration-black text-red-900">here</a>.
+          </div>
         </article>
       </Container>
     </main>
