@@ -42,6 +42,13 @@ export default function Contact() {
             has a role to play in protecting the environment, and we want to
             empower people to make a positive impact through their actions.
           </p>
+          <h2 id="sources" className="text-4xl font-bold mt-8 text-center mb-5">What are your sources?</h2>
+          <p className="text-center mb-3">
+            We're glad you asked! We use a variety of credible sources to ensure that the information we provide is accurate and up-to-date.
+          </p>
+          <p className="text-center">
+            Here is a link to our white paper on e-waste with all of our sources: <a href="/assets/app/whitepaper.pdf" className="hover:underline hover:text-red-500 decoration-black text-red-900">White Paper</a>
+          </p>
           <h2 className="text-4xl font-bold mt-8 text-center mb-5">Our Team</h2>
           <AboutProfileImage name="Adi Tolia" src="/assets/blog/authors/adi.jpg" />
           <h3 className="text-2xl font-bold mt-4">Adi Tolia</h3>
@@ -82,15 +89,7 @@ export default function Contact() {
             Thomas is a junior at the University of Wisconsin-Madison majoring in Computer Science. He is interested in
             e-waste because it is a growing environmental issue that is often overlooked. He has seen many cartoons of 
             E-Waste, encouraging him to make a greener planet. He believes that with coordination and greater awareness, 
-            e-waste is problem that can be solved.
-          </p>
-
-          <h2 id="sources" className="text-4xl font-bold mt-8 text-center mb-5">What are your sources?</h2>
-          <p className="text-center mb-3">
-            We're glad you asked! We use a variety of credible sources to ensure that the information we provide is accurate and up-to-date.
-          </p>
-          <p className="text-center">
-            Here is a link to our white paper on e-waste with all of our sources: <a href="/assets/app/whitepaper.pdf" className="hover:underline hover:text-red-500 decoration-black text-red-900">White Paper</a>
+            e-waste is a problem that can be solved.
           </p>
         </div>
         
