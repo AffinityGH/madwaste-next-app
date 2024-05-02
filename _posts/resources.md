@@ -2,7 +2,7 @@
 title: "How to Recycle E-Waste: Practical Steps and Resources"
 excerpt: "Recycling e-waste involves several key steps to ensure that your electronic devices are disposed of responsibly and safely. Here’s a straightforward guide to get you started."
 coverImage: "/assets/blog/resources/cover.jpg"
-date: "2024-04-29T04:35:07.322Z"
+date: "2024-04-29T05:20:07.322Z"
 author:
   name: Adi Tolia
   picture: "/assets/blog/authors/adi.jpg"
@@ -28,26 +28,26 @@ Recycling e-waste involves several key steps to ensure that your electronic devi
 
 ### Nationwide Programs
 
+There are several nationwide programs that can help you recycle your electronic waste.
+
 - **Manufacturer Take-Back Programs**: Many device manufacturers like Apple, Samsung, and Dell offer recycling services for their products.
 - **Retailer Recycling Programs**: Electronics retailers such as Best Buy and Staples have drop-off points specifically for old electronics.
 - **Non-Profit Organizations**: Websites like Earth911 provide searchable databases to find nearby recycling facilities.
 
-## E-Waste Recycling in Madison, Wisconsin
+### Local Resources
 
 Madison residents have access to several resources that facilitate the recycling of electronic waste:
-
-### Local Resources
 
 - **[Wisconsin Department of Natural Resources](https://dnr.wisconsin.gov/topic/Ecycle)**: The Wisconsin Department of Natural Resources provides information on e-waste recycling in the state of Wisconsin. They offer resources and guidelines for the proper disposal of electronic devices.
 - **[City of Madison Streets Division](https://www.cityofmadison.com/streets/recycling/computers/program.cfm)**: This local government service offers up-to-date information on where and how to recycle e-waste.
 - **[Dane County Clean Sweep](https://landfill.danecounty.gov/services/clean-sweep)**: Located at the county landfill, this program allows for the safe disposal of electronics along with other hazardous materials.
 - **[University of Wisconsin-Madison](https://it.wisc.edu/services/electronics-recycling/)**: The university also offers on-campus locations and programs to help students recycle e-waste.
 
-### E-Waste Collection Events
+## E-Waste Collection Events
 
-Keep an eye on local community boards and news outlets for scheduled e-waste collection events. These events provide a convenient way to dispose of larger or unusual pieces of electronic waste.
+Keep an eye on local community boards and news outlets for scheduled e-waste collection events. These events provide a convenient way to dispose of larger or unusual pieces of electronic waste. 
 
-### Google Maps Locations
+## Google Maps Locations
 
 For easy reference, here’s a map showing e-waste recycling locations in Madison:
 

@@ -30,5 +30,5 @@
 }
 
 .markdown a {
-  @apply hover:underline hover:text-red-500 decoration-red-500 text-red-900;
+  @apply hover:underline hover:text-red-500 decoration-black text-red-900;
 }

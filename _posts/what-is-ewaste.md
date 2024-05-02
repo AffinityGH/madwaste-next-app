@@ -2,7 +2,7 @@
 title: "What is E-Waste?"
 excerpt: "Electronic waste, or e-waste, refers to discarded electrical or electronic devices. Electronics that are destined for refurbishment, reuse, resale, or disposal are also considered e-waste."
 coverImage: "/assets/blog/what-is-ewaste/cover.jpg"
-date: "2024-04-29T05:35:07.322Z"
+date: "2024-04-29T05:37:07.322Z"
 author:
   name: Ram Vaidya
   picture: "/assets/blog/authors/ram.jpg"

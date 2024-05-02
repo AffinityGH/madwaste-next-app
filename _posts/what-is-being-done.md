@@ -1,0 +1,14 @@
+---
+title: "What is Being Done About E-Waste?"
+excerpt: "Although we aren’t first in the world when it comes to E-Waste, we still pack a punch compared to the rest of the world when it comes to creating E-Waste. Sitting right behind China."
+coverImage: "/assets/blog/what-is-being-done/cover.jpg"
+date: "2024-04-29T05:33:07.322Z"
+author:
+  name: Chuck Steffen
+  picture: "/assets/blog/authors/chuck.jpg"
+ogImage:
+  url: "/assets/blog/what-is-being-done/cover.jpg"
+---
+Although we aren’t first in the world when it comes to E-Waste, we still pack a punch compared to the rest of the world when it comes to creating E-Waste. Sitting right behind China (12.1 million) at 7.2 million metric tons we create about as much waste as the 3rd, 4th and 5th countries combined. This is hopefully going to decrease due to the continuous regulations and legislation passed by the US. Some of these involve the RCRA (Resource Conservation and Recovery Act) which focuses on disposal of hazardous waste. Some products of E-Waste fall under that category which is important to remember. Other ways the US tries to help reduce include things like adding labels to products, or simply making it known through brochures what can and can’t be recycled. Creating awareness is one of the most effective ways to reduce waste, even if it doesn’t seem that important. It allows for individuals to think twice about what they put where.
+
+Madison specifically does a wonderful job of educating and creating opportunities for people to work on correctly recycling E-Waste. Being that E-Waste is a common problem, events that offer incentives, for things as simple as a sandwich coupon, to raffles and cash prizes. At these events, not only can you drop off your waste, but you can learn about the importance of correctly recycling and hopefully leave with a better understanding of how the process works. The Wisconsin DNR also has all schools either recycling their electronics, or managing them as “hazardous waste”.  More information on these DNR programs can be found on their website [here](https://dnr.wisconsin.gov/topic/Ecycle/Schools.html). Another amazing thing about these recycling programs is businesses like Walmart may also take in phones or other electronics and give you some cash. So instead of having to travel maybe 10 miles to a specific electronics drop off, you can just go to your local Walmart and be rewarded! Lastly, with Madison being an educational city, it allows for the ability to have knowledgeable individuals teach simple courses on not just e-waste recycling, recycling of all sorts. This allows individuals to be more vigilant when it comes to finding the difference in trash and recycling, bringing us to a world with less E-Waste.
