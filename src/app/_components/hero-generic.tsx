@@ -11,7 +11,7 @@ export function HeroGeneric({title, description}: HeroMainProps) {
         <Container>
             <div className="flex justify-center items-center">
                 <div className="flex flex-col items-center">
-                    <h1 className="text-2xl md:text-6xl font-bold tracking-tighter leading-tight mb-3 text-center">
+                    <h1 className="text-7xl font-bold tracking-tighter leading-tight mb-3 text-center">
                         {title}
                     </h1>
                     <p className="text-lg text-center text-primary-700 mb-5">{description}</p>
