@@ -16,12 +16,13 @@ In 2013, the Woe Lab in Lomé, Togo made the first 3D printer using scrap materi
 
 The entrepreneurs in the Woe Lab are showing an incredible example of what we need to adopt as a whole: movement into a circular economy, where we take advantage of existing products as much as possible. To do this in the realm of e-waste, here are some key strategies: 
 
-Rethink production of electronics for durability and repairability. 
-Use 3D printing as a tool to create spare parts for broken devices. 
-Continue innovating our recycling approaches to optimize our use of the materials in e-waste. 
-Better legislature regulating the recycling and disposal of e-waste. 
-Better producer responsibility: make companies accountable for managing the e-waste they produce. 
+- Rethink production of electronics for durability and repairability. 
+- Use 3D printing as a tool to create spare parts for broken devices. 
+- Continue innovating our recycling approaches to optimize our use of the materials in e-waste. 
+- Better legislature regulating the recycling and disposal of e-waste. 
+- Better producer responsibility: make companies accountable for managing the e-waste they produce. 
 
 Additional Sources: 
+
 1. https://www.cnn.com/2017/11/28/africa/3d-printer-electronic-waste/index.html
 2. https://news.climate.columbia.edu/2018/08/27/growing-e-waste-problem/
